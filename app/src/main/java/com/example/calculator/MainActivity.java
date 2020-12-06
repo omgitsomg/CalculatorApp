@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     String process;
     Boolean checkBracket = false;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
